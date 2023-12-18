@@ -21,7 +21,7 @@ def scan_dataset(folder_paths: list[str]) -> list[list[str]]:
         folder_paths (list[str]): paths to dataset
 
     Returns:
-        list[list[str]]: data is a matrix of strings
+        list[list[str]]: data in a matrix of strings
     """
     result = []
     for folder in folder_paths:
