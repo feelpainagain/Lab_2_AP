@@ -1,7 +1,7 @@
 from typing import Optional
 
 from task2 import scan_annotation
-from main import scan_dataset
+from task1 import scan_dataset
 
 
 class ClassedAnnotationIterator:
